@@ -134,3 +134,8 @@ function greet(name) {
 Understanding data types is crucial for effective JavaScript programming as it affects how data is stored, manipulated, and processed.
 
 This covers the basics of JavaScript as outlined in Chapter 1. In subsequent chapters, we'll delve deeper into each topic and explore more advanced concepts.
+
+
+## Task-Based Questions for JavaScript Introduction
+
+1. **Task:** 
