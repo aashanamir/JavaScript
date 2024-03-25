@@ -32,7 +32,7 @@ let stringLet = "Hello";
 
 // Using const
 const PI = 3.14;
-
+```
 
 ## 4. Variable Rules
 
@@ -51,12 +51,12 @@ let _variable;
 let $variable;
 let myVar123;
 let my_var;
+```
 
 // Invalid variable names
 // let 123var; // Cannot start with a digit
 // let my-Variable; // Hyphens are not allowed
 // let let; // Reserved keyword
-```
 
 ## 5. let, const, and var
 
@@ -86,7 +86,7 @@ console.log(b); // Error: b is not defined
 const NAME = "Muhammad";
 NAME = "Aashan"; // Error: Assignment to constant variable
 
-
+```
 
 
 ## 6. Data Types in JavaScript
