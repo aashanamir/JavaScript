@@ -31,5 +31,5 @@ This course covers the following topics:
 To get started with the course, simply clone this repository and follow along with the provided content. Each topic is organized into separate folders, containing explanations, code examples, and exercises to reinforce your learning.
 
 ```bash
-git clone https://github.com/your-username/javascript-course-introduction.git
-cd javascript-course-introduction
+git clone https://github.com/aashanamir/JavaScript
+cd JavaScript
