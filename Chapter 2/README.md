@@ -161,3 +161,12 @@ if (time < 12) {
     console.log("Good evening!");
 }
 ```
+
+
+
+| A     | B     | A AND B | A OR B | NOT A |
+|-------|-------|---------|--------|-------|
+| false | false | false   | false  | true  |
+| false | true  | false   | true   | true  |
+| true  | false | false   | true   | false |
+| true  | true  | true    | true   | false |
