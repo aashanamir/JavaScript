@@ -8,13 +8,15 @@ Loops in JavaScript are iterative structures used to execute a block of code rep
 
    **Syntax:**
 
-   ```for (initialization; condition; increment/decrement) {
+   ```javascript
+   for (initialization; condition; increment/decrement) {
        // code to be executed
    }
    ```
 
   **Example:**
-```for (let i = 0; i < 5; i++) {
+```javascript 
+for (let i = 0; i < 5; i++) {
     console.log(i); // Output: 0, 1, 2, 3, 4
 }
 ```
