@@ -13,12 +13,11 @@ Loops in JavaScript are iterative structures used to execute a block of code rep
    }
    ```
 
-````
-
   **Example:**
 ```for (let i = 0; i < 5; i++) {
     console.log(i); // Output: 0, 1, 2, 3, 4
-}```
+}
+```
 
 
 ## 2. The while Loop
@@ -30,7 +29,7 @@ The while loop is employed when the number of iterations is not predetermined, a
 while (condition) {
     // code to be executed
 }
-
+```
 
 
 
